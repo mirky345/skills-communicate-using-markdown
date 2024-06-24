@@ -16,9 +16,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar =  "Hello, world";
 ```
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This is not complete
+- [x] Turn on GitHub pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
